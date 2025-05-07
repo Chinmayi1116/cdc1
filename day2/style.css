@@ -1,0 +1,36 @@
+.protfolio-container{
+    width: 800px;
+    border:2px solid black;
+    border-radius: 14px;
+    margin:10px auto;
+}
+.protfolio-container-content{
+    position: relative;
+
+}
+.cover-img{
+    border-radius: 20px;
+    border: 2px solid black;
+    height:250px;
+    width:800px;
+    object-fit: cover;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+
+}
+.profile-img{
+    height:200px;
+    width:200px;
+    border-radius:50%;
+    object-fit: cover;
+    border:3px solid orchid;
+    left:30%
+    position:absolute;
+
+}
+.profile-content{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 30%;
+}
